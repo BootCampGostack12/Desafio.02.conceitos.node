@@ -16,7 +16,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafios?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/mpgxc/GoStack.12-desafio-nodejs?style=social">
   </a>
 </p>
 
